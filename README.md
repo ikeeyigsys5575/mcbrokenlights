@@ -1,6 +1,8 @@
 ![Picture of the map](maps.jpg)
 # McBrokenLights
 A real life map of McDonald's ice cream machine statuses taking advantage of the [McBroken](https://mcbroken.com) API and Raspberry Pi GPIO pins
+
+Updates every 10 minutes.
 # Requirements
 ![Picture of Raspberry Pi and Breadboard](board.jpg)
 * Raspberry Pi with GPIO pins
