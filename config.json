@@ -1,0 +1,5 @@
+{
+  "gpioBroken": [17, 5, 16, 22],
+  "gpioWorking": [27, 6, 26, 25],
+  "addresses": []
+}
