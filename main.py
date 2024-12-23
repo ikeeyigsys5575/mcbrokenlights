@@ -1,5 +1,4 @@
-from time import sleep
-
+import time
 import requests
 import RPi.GPIO as GPIO
 import json
@@ -54,6 +53,7 @@ def refresh():
 
 while True:
     refresh()
-    sleep(600)
+    time.sleep(600)
+
 GPIO.cleanup()
 
